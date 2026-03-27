@@ -12,7 +12,7 @@
 
 | Hardware | Specs | Notes / Reasoning | Manufacturer / Supplier | Required | MOQ | Single Unit Cost (pre-tax) |
 |----------|-------|-------------------|-------------------------|----------|-----|----------------------------|
-| Raspberry Pi 3 Model B+ | [Specs](https://pip-assets.raspberrypi.com/categories/532-raspberry-pi-3-model-b/documents/RP-008338-DS-2-raspberry-pi-3-b-plus-product-brief.pdf?disposition=inline) | Maybe slightly overkill to run op25 on | [Amazon](https://a.co/d/01LudnAc) | Yes | 1 | $53.89 |
+| Raspberry Pi 3 Model B+ | [Specs](https://pip-assets.raspberrypi.com/categories/532-raspberry-pi-3-model-b/documents/RP-008338-DS-2-raspberry-pi-3-b-plus-product-brief.pdf?disposition=inline) | Maybe slightly overkill to run [op25](https://github.com/boatbod/op25) on | [Amazon](https://a.co/d/01LudnAc) | Yes | 1 | $53.89 |
 | 5 Inch RPI MIPI DSI Touchscreen | [Download specs](https://github.com/Hosyond/5-inch-DSI-Display/archive/refs/heads/main.zip) | Just to display talkgroups, touchscreen functionality not enabled | [Amazon](https://a.co/d/0dWo5RfP) | | 1 | $34.99 |
 | RTL-SDR v4 | [Datasheet](https://www.rtl-sdr.com/wp-content/uploads/2024/12/RTLSDR_V4_Datasheet_V_1_0.pdf) | Antenna module | [Amazon](https://a.co/d/0eHCQDrK) | Yes | 1 | $39.95 |
 | 2.4/ 5/ 5.8 GHz SMA Antenna | | DO NOT USE, not the right antenna for the frequency range | [Amazon](https://a.co/d/04dhBlB6) | Yes | 2 | $4.445 |
