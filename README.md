@@ -30,3 +30,9 @@
 | RCA Male to 3.5mm Male Cable | 6.6' | For audio ducker output to vehicle aux input | [Amazon](https://a.co/d/0iSsj9Lk) | | 1 | $6.79 |
 | **Total (optional)** | | | | | | **$362.40** |
 | **Total (required)** | | | | | | **$128.68** |
+
+<br><br>
+
+## Pre-built BOM (in progress)
+| Hardware | Specs | Notes / Reasoning | Manufacturer / Supplier | Required | MOQ | Single Unit Cost (pre-tax) |
+|----------|-------|-------------------|-------------------------|----------|-----|----------------------------|
