@@ -1,14 +1,11 @@
-<div align="center">
-
-# Vehicle P25 phase 1 & 2 trunked radio decoder
-
-</div>
+# Mobile P25 phase 1 & 2 trunked radio decoder
 
 ## Current BOM (for my custom install)
+
 **Note:** Some products may differ slightly from my actual install as I bought some things in stores. The wiring configuration using the switches is not included here since that is highly variable from vehicle to vehicle. Constant cigarrette outlet power is assumed here.
 
-| Hardware | Specs | Notes / Reasoning | Manufacturer / Supplier | Required | MOQ | Single unit Cost (pre-tax) |
-|----------|-------|-------------------|-------------------------|----------|-----|-----------|
+| Hardware | Specs | Notes / Reasoning | Manufacturer / Supplier | Required | MOQ | Single Unit Cost (pre-tax) |
+|----------|-------|-------------------|-------------------------|----------|-----|----------------------------|
 | Raspberry Pi 3 Model B+ | [Specs](https://pip-assets.raspberrypi.com/categories/532-raspberry-pi-3-model-b/documents/RP-008338-DS-2-raspberry-pi-3-b-plus-product-brief.pdf?disposition=inline) | Maybe slightly overkill to run op25 on | [Amazon](https://a.co/d/01LudnAc) | Yes | 1 | $53.89 |
 | 5 Inch RPI MIPI DSI Touchscreen | [Download specs](https://github.com/Hosyond/5-inch-DSI-Display/archive/refs/heads/main.zip) | Just to display talkgroups, touchscreen functionality not enabled | [Amazon](https://a.co/d/0dWo5RfP) | | 1 | $34.99 |
 | RTL-SDR v4 | [Datasheet](https://www.rtl-sdr.com/wp-content/uploads/2024/12/RTLSDR_V4_Datasheet_V_1_0.pdf) | Antenna module | [Amazon](https://a.co/d/0eHCQDrK) | Yes | 1 | $39.95 |
@@ -25,3 +22,5 @@
 | 3.5mm Female to RCA Male Cable | 8" | For Raspberry Pi to audio ducker input | [Amazon](https://a.co/d/0hutorhY) | | 2 | $2.995 |
 | USB-C Male to RCA Male Cable | 6' | For phone (music) to audio ducker input | [Amazon](https://a.co/d/09z71wBZ) | | 1 | $9.99 |
 | RCA Male to 3.5mm Male Cable | 6.6' | For audio ducker output to vehicle aux input | [Amazon](https://a.co/d/0iSsj9Lk) | | 1 | $6.79 |
+| **Total (optional)** | | | | | | **$362.40** |
+| **Total (required)** | | | | | | **$128.68** |
